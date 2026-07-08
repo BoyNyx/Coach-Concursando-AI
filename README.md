@@ -91,3 +91,14 @@ Consulte o arquivo [`LICENSE`](LICENSE) para mais informações.
 # ⭐ Agradecimentos
 
 Se este repositório foi útil para seus estudos, considere deixar uma ⭐ no GitHub e compartilhá-lo com outros concurseiros. Isso ajuda o projeto a alcançar mais pessoas e incentiva novas contribuições.
+
+---
+
+# 📬 Contato
+
+Caso tenha dúvidas, sugestões ou queira relatar algum problema, entre em contato:
+
+- 📧 **E-mail:** `boynyx@tuta.io`
+- 💬 **Discord:** `BoyNyx`
+
+---
